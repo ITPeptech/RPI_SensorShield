@@ -8,6 +8,13 @@ Run setup.py as root, it will make sure the system is up-to-date, install the re
 
 use main.py to print out the values of the 8 sensors. Use this script as a baseline to build your own script.
 
+## Supported Devices
+This repository is supported for the following Raspberry Pi systems:
+
+_Raspberry Pi Zero_
+_Raspberry Pi 3*_
+_Raspberry Pi 4*_
+
 ## Contact and Support
 
 peptech GmbH
