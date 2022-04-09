@@ -11,9 +11,9 @@ use main.py to print out the values of the 8 sensors. Use this script as a basel
 ## Supported Devices
 This repository is supported for the following Raspberry Pi systems:
 
-_Raspberry Pi Zero_
-_Raspberry Pi 3*_
-_Raspberry Pi 4*_
+_Raspberry Pi Zero_<br />
+_Raspberry Pi 3*_<br />
+_Raspberry Pi 4*_<br />
 
 ## Contact and Support
 
