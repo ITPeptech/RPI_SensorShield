@@ -20,9 +20,9 @@ Email: qais.sunna@peptech.de
 
 Copyright (C) 2021 peptech GmbH
 
-This file is part of the "Jörn GmbH" project.
+This file is part of the "Raspberry Pi Sensor Shield" project.
 
-The "Jörn GmbH" project can not be copied and/or distributed without the express
+The "Raspberry Pi Sensor Shield" project can not be copied and/or distributed without the express
 permission of "peptech GmbH" 
 
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)
