@@ -12,9 +12,9 @@ from time import sleep
 
 spi = spidev.SpiDev()
 voltage = 5.2           #<----------------CHANGE THIS IF NECESSARY
-MUX_A = 13
+MUX_A = 26
 MUX_B = 19
-MUX_C = 26
+MUX_C = 13
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
